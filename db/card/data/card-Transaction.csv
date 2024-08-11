@@ -1,0 +1,3 @@
+ID;cardUUID;transactionDateTime;destination;amount;currency
+462867d3-9e81-4637-ad02-38af0b817f08;5f23b4f9-1ff1-4697-9468-fadc6d177236;2020-01-01;enrollment;100;USD
+0e29123f-7bd2-44c6-bb3d-8c5dfc1c9f79;07144f8d-2374-4d09-bc02-164603bef000;2020-01-01;enrollment;100;USD
